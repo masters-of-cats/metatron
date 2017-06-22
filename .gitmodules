@@ -1,0 +1,3 @@
+[submodule "vendor/github.com/cloudfoundry/dropsonde"]
+	path = vendor/github.com/cloudfoundry/dropsonde
+	url = https://github.com/cloudfoundry/dropsonde
