@@ -1,3 +1,12 @@
 [submodule "vendor/github.com/cloudfoundry/dropsonde"]
 	path = vendor/github.com/cloudfoundry/dropsonde
 	url = https://github.com/cloudfoundry/dropsonde
+[submodule "vendor/github.com/gogo/protobuf"]
+	path = vendor/github.com/gogo/protobuf
+	url = https://github.com/gogo/protobuf
+[submodule "vendor/github.com/nu7hatch/gouuid"]
+	path = vendor/github.com/nu7hatch/gouuid
+	url = https://github.com/nu7hatch/gouuid
+[submodule "vendor/github.com/cloudfoundry/sonde-go"]
+	path = vendor/github.com/cloudfoundry/sonde-go
+	url = https://github.com/cloudfoundry/sonde-go
